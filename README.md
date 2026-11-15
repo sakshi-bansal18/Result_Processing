@@ -1,6 +1,6 @@
 # Result Processing System Using Templates (C++)
 
-A menu-driven console application that processes student results using **C++ function templates and class templates**. The same logic works for integer and floating-point scores without duplicating code.
+A menu-driven console application that processes student results using **C++ function templates and class templates**. The same logic works for integer and floating-point scores without duplicating code
 
 ## Problem Statement
 Writing separate functions and classes for each data type (int, float, double) causes duplicated, hard-to-maintain code. This project uses C++ templates to write the result-processing logic once and reuse it for multiple numeric types.
