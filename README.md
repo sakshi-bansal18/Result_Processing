@@ -2,12 +2,6 @@
 
 A menu-driven console application that processes student results using **C++ function templates and class templates**. The same logic works for integer and floating-point scores without duplicating code.
 
-**Subject:** Object-Oriented Programming Using C++ (CIC-211), Lab Mini Project 9
-**Group Number:** YOUR_GROUP_NUMBER
-**Team Members:**
-- YOUR_NAME_1 (Enrollment No.: YOUR_ENROLLMENT_1)
-- YOUR_NAME_2 (Enrollment No.: YOUR_ENROLLMENT_2)
-
 ## Problem Statement
 Writing separate functions and classes for each data type (int, float, double) causes duplicated, hard-to-maintain code. This project uses C++ templates to write the result-processing logic once and reuse it for multiple numeric types.
 
